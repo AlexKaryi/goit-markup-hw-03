@@ -32,6 +32,7 @@ ul {
 }
 
 img {
+  width: 100%;
   display: block;
 }
 
@@ -146,6 +147,7 @@ img {
 }
 
 .hero {
+  padding: 200px 0;
   background-color: var(--secondary-background-color);
 }
 
